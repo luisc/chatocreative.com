@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Since 2011, I have co-owned [Twenty Sided Store](https://twentysidedstore.com/), a retail and event space (sans event space during COVID) in Brooklyn, NY. I have done everything from helping and ringing out customers, writing inventory management software, baking cookies, knocking down drywall, putting up drywall, processing payroll, wading through kneedeep water to unflood a drain to... well you get the idea ;)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I like to read, listen to music, run, play games, and watch hoops.

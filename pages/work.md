@@ -4,15 +4,26 @@ title: Work
 permalink: /work/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Work
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+When spinning up a new project these days, I usually reach for a ruby related too, Rails, Sinatra, or Jekyll.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The majority of code I write today is related to inventory and event management. At Twenty Sided Store I have developed robust systems to process, manage and reorder inventory. At Twenty Sided Store we handle tens of thousands of SKUs. I have a custom app that integrates and syncs with Shopify and Slack. I have also written (and now deprecated) custom apps integrating with Square POS.
 
+Prior to 2011, I wrote a lot of code. I have written production level code in:
 
-[jekyll-organization]: https://github.com/jekyll
+* Ruby
+* Javascript
+* SQL
+* Mivascript (obscure one)
+* PHP
+* Perl
+* HTML
+* CSS
+* Liquid
+
+## Sites
+
+* Twenty Sided Store
+* Grand St. BK
+<!-- * RocketGo.al -->

@@ -1,14 +1,24 @@
 ---
 layout: default
 ---
-<article class="post">
+{% assign main_image = 'blue' %}
+{% if page.title %}
+  {% assign main_image = page.title | downcase %}
+{% endif %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+<section class="section">
+  <div class="columns">
+    
+    <div class="column content">
+      {{ content }}
+    </div>
 
-  <div class="post-content">
-    {{ content }}
+    <div class="column">
+      <figure class="image is-1x1">
+        <img class="is-rounded" src="/assets/images/{{main_image}}.jpg">
+      </figure>
+    </div>
+    
   </div>
-
-</article>
+  
+</section>
