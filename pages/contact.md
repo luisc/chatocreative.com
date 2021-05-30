@@ -6,4 +6,4 @@ permalink: /contact/
 
 ## Contact
 
-Email me at info@chatocreative.com
+If you have a project in mind, email: **info at chatocreative dot com**
